@@ -1,0 +1,1 @@
+O ip do servidor principal é: 192.168.0.1,18033,o dos caixa é 192.168.0.1,18033 agora o spam ta vindo como 192.168.0.1,18033
